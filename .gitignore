@@ -41,3 +41,12 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+# Qtdeploy
+app/deploy
+
+# IDEA config
+*.impl
+*.iml
+.idea/
+
